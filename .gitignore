@@ -1,0 +1,25 @@
+# Xcode
+build/
+*.pbxuser
+*.xcworkspace
+.xcworkspace/*
+.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+.build/
+*.xcodeproj
+
+# Derived Data
+DerivedData/
+
+# OS
+.DS_Store
+*.swp
+*~.nib
+
+# Pod files
+Pods/
+Podfile.lock
